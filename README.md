@@ -4,11 +4,11 @@
 [![rank](https://make.fun/badge/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a/axzss/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a/rank.svg)](https://make.fun/bounty/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a)
 [![reward](https://make.fun/badge/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a/axzss/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a/reward.svg)](https://make.fun/bounty/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a)
 
-One sentence, 189 characters — a startup pitch so strange it sounds like a joke, until the economics land:
+One sentence, 154 characters — a startup pitch so strange it sounds like a joke, until the economics land:
 
-> We lease herds of goats to solar farms, who pay per cleared acre because goats eat weeds cheaper than mowers, can't spark fires beside panels, need no fuel, and fertilize the soil for free.
+> We train crows to collect cigarette butts for cities, which pay per kilo because crows find butts sweepers miss, never call in sick, and work for peanuts.
 
-The odd thing being sold: a herd of goats on a payroll, leased out as industrial weed-clearing contractors. Who pays: solar farm operators, per cleared acre — they already budget for vegetation control, because weeds shade panels and mowers risk sparking fires beside live electrical equipment. Why it holds together: goats undercut mowers on price, cannot spark a fire, run on grass instead of diesel, and leave fertilizer behind for free. Four cost arguments stack inside a single sentence, so the joke survives a second look — and a third, because solar grazing is a real, growing industry: the absurdity is the business model, not a fantasy.
+The odd thing being sold: a flock of crows on a payroll, hired out as municipal street cleaners. Who pays: cities, per kilo of cigarette butts — they already budget for litter cleanup, because butts are the most littered item on earth and sweepers miss the ones wedged in cracks and gutters. Why it holds together: crows find the butts sweepers miss, never call in sick, and work for peanuts — literally. Three cost arguments stack inside a single sentence, so the joke survives a second look — and a third, because trained crows collecting butts for food is real: Corvid Cleaning ran it in Södertälje, Sweden, in 2022, paid for by the city. The absurdity is the business model, not a fantasy.
 
 ## Run it
 

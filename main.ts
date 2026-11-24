@@ -19,7 +19,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const entry =
-  "We train crows to collect cigarette butts for cities, who pay per kilo because crows find butts sweepers miss, never call in sick, and work for peanuts.";
+  "We train crows to collect cigarette butts for cities, which pay per kilo because crows find butts sweepers miss, never call in sick, and work for peanuts.";
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR || ".";
 mkdirSync(outDir, { recursive: true });
